@@ -3,7 +3,7 @@
 # Brief Summary
 - This is a simplified tutorial of [LLaVA](https://github.com/haotian-liu/LLaVA), aligning [Mistral-instruct-7b](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1) with [CLIP-ViT-B](openai/clip-vit-base-patch16).
 - We fine-tune LLaVA on [ConceptualCaption](https://ai.google.com/research/ConceptualCaptions/download) dataset with 3.3M image-caption pairs (i.e., it is tailored for the captioning task)
-- Hope this tutorial can facilitate understanding of the [LLaVA](https://github.com/haotian-liu/LLaVA) codebase, which became a bit heavy and verbose recently due to their huge advance.
+- Hope this can facilitate understanding of the [LLaVA](https://github.com/haotian-liu/LLaVA) codebase, which became a bit heavy and verbose recently due to their huge advance.
 
 
 # How to run
