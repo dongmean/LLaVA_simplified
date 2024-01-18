@@ -40,7 +40,7 @@ More detailed script can be found in [`predict.sh`](https://github.com/dongmean/
 
 # Modified files
 - All files in the data_preprocess/ folder
-- train.py to only remain major components for LLaVA (model initialization, data loader, model training)
+- train.py to only remain the major components for LLaVA (e.g., model initialization, data loader, model training)
 - Many files in the model/ folder to reduce the verbosity
 - **See find_all_linear_names() in train.py for LoRA configuration**
 - **See prepare_inputs_labels_for_multimodal() in model/llava.py for patch-level alignment**
