@@ -39,6 +39,7 @@ More detailed script can be found in [`predict.sh`](https://github.com/dongmean/
 
 ### Results
 - Captioning results of our fine-tuned model is on [`predictions.json`](https://github.com/dongmean/LLaVA_simplified/blob/main/predictions.json)
+- Few validation image examples is in [`eval_image_examples/`](https://github.com/dongmean/LLaVA_simplified/blob/main/eval_image_examples/)
 
 # Modified files
 - All files in the data_preprocess/ folder
