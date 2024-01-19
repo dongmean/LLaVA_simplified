@@ -37,6 +37,8 @@ More detailed script can be found in [`predict.sh`](https://github.com/dongmean/
 - Data preprocessing: Reformat image-text to LLaVA input format [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/data_preprocessing/data_preprocessing.py)
 - Data cleaning: Remove images not able to open by CLIP image processor [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/data_preprocessing/data_preprocessing.py)
 
+### Results
+- Captioning results of our fine-tuned model is on [`predictions.json`](https://github.com/dongmean/LLaVA_simplified/predictions.json)
 
 # Modified files
 - All files in the data_preprocess/ folder
