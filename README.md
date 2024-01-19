@@ -19,7 +19,7 @@ deepspeed train.py \
     --val_image_folder /your/data/path/ConceptualCaptions/val/ \
     --vision_tower openai/clip-vit-base-patch16 \
 ```
-Detailed configuration can be found in [`finetune.sh`](https://github.com/dongmean/LLaVA_simplified/finetune.sh)
+Detailed configuration can be found in [`finetune.sh`](https://github.com/dongmean/LLaVA_simplified/blob/main/finetune.sh)
 
 ### Prediction
 ```bash 
@@ -30,13 +30,15 @@ python predict.py \
     --top_p 0.95 \
     --num_beams 1 \
 ```
-More detailed script can be found in [`predict.sh`](https://github.com/dongmean/LLaVA_simplified/predict.sh)
+More detailed script can be found in [`predict.sh`](https://github.com/dongmean/LLaVA_simplified/blob/main/predict.sh)
 
 ### Data preprocessing
-- Data download: Retrieve each image from URL [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/data_preprocessing/data_download.py)
-- Data preprocessing: Reformat image-text to LLaVA input format [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/data_preprocessing/data_preprocessing.py)
-- Data cleaning: Remove images not able to open by CLIP image processor [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/data_preprocessing/data_preprocessing.py)
+- Data download: Retrieve each image from URL by [`data_preprocessing/data_download.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_download.py)
+- Data preprocessing: Reformat image-text to LLaVA input format by [`data_preprocessing/data_preprocessing.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_preprocessing.py)
+- Data cleaning: Remove images not able to open by CLIP image processor by [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_cleaning.py)
 
+### Results
+- Captioning results of our fine-tuned model is on [`predictions.json`](https://github.com/dongmean/LLaVA_simplified/blob/main/predictions.json)
 
 # Modified files
 - All files in the data_preprocess/ folder
