@@ -33,8 +33,8 @@ python predict.py \
 More detailed script can be found in [`predict.sh`](https://github.com/dongmean/LLaVA_simplified/blob/main/predict.sh)
 
 ### Data preprocessing
-- Data download: Retrieve each image from URL by [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_download.py)
-- Data preprocessing: Reformat image-text to LLaVA input format by [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_preprocessing.py)
+- Data download: Retrieve each image from URL by [`data_preprocessing/data_download.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_download.py)
+- Data preprocessing: Reformat image-text to LLaVA input format by [`data_preprocessing/data_preprocessing.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_preprocessing.py)
 - Data cleaning: Remove images not able to open by CLIP image processor by [`data_preprocessing/data_cleaning.py`](https://github.com/dongmean/LLaVA_simplified/blob/main/data_preprocessing/data_preprocessing.py)
 
 ### Results
