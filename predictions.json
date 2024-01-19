@@ -1,0 +1,2123 @@
+[
+  {
+    "index": "1",
+    "image": "/data/pdm102207/ConceptualCaptions/val/0_1595581236.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "author : a life in photography -- in pictures",
+    "pred_output": "person and tv programme creator in a scene from crime fiction film ."
+  },
+  {
+    "index": "1",
+    "image": "/data/pdm102207/ConceptualCaptions/val/0_1595581236.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "author : a life in photography -- in pictures",
+    "pred_output": "politician , left , chats with person , during a visit ."
+  },
+  {
+    "index": "1",
+    "image": "/data/pdm102207/ConceptualCaptions/val/0_1595581236.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "author : a life in photography -- in pictures",
+    "pred_output": "actor on the set of tv sitcom ."
+  },
+  {
+    "index": "2",
+    "image": "/data/pdm102207/ConceptualCaptions/val/5_2227185927.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the - bedroom stone cottage can sleep people",
+    "pred_output": "the master bedroom is on the first floor , while the children 's rooms are on the ground floor"
+  },
+  {
+    "index": "2",
+    "image": "/data/pdm102207/ConceptualCaptions/val/5_2227185927.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the - bedroom stone cottage can sleep people",
+    "pred_output": "a bedroom with a double bed"
+  },
+  {
+    "index": "2",
+    "image": "/data/pdm102207/ConceptualCaptions/val/5_2227185927.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the - bedroom stone cottage can sleep people",
+    "pred_output": "a room with a view"
+  },
+  {
+    "index": "3",
+    "image": "/data/pdm102207/ConceptualCaptions/val/8_1666482269.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "party in the park under cherry blossoms",
+    "pred_output": "a crowd gathers around cherry blossoms"
+  },
+  {
+    "index": "3",
+    "image": "/data/pdm102207/ConceptualCaptions/val/8_1666482269.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "party in the park under cherry blossoms",
+    "pred_output": "under the cherry blossoms at spring"
+  },
+  {
+    "index": "3",
+    "image": "/data/pdm102207/ConceptualCaptions/val/8_1666482269.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "party in the park under cherry blossoms",
+    "pred_output": "person take in the cherry blossoms ."
+  },
+  {
+    "index": "4",
+    "image": "/data/pdm102207/ConceptualCaptions/val/11_3727110351.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "where 's the best place to show off your nails ? right in front of the castle , of course !",
+    "pred_output": "nails inspired by film character ."
+  },
+  {
+    "index": "4",
+    "image": "/data/pdm102207/ConceptualCaptions/val/11_3727110351.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "where 's the best place to show off your nails ? right in front of the castle , of course !",
+    "pred_output": "designs that are so intricate and detailed , they make you forget about the rest of the world ."
+  },
+  {
+    "index": "4",
+    "image": "/data/pdm102207/ConceptualCaptions/val/11_3727110351.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "where 's the best place to show off your nails ? right in front of the castle , of course !",
+    "pred_output": "i just want to be a fairy and live in a forest with my prince"
+  },
+  {
+    "index": "5",
+    "image": "/data/pdm102207/ConceptualCaptions/val/12_1565689545.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "that combines elements of a simple vegetable and dish",
+    "pred_output": "green lettuce on a white plate , isolated"
+  },
+  {
+    "index": "5",
+    "image": "/data/pdm102207/ConceptualCaptions/val/12_1565689545.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "that combines elements of a simple vegetable and dish",
+    "pred_output": "green parsley on a white plate ."
+  },
+  {
+    "index": "5",
+    "image": "/data/pdm102207/ConceptualCaptions/val/12_1565689545.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "that combines elements of a simple vegetable and dish",
+    "pred_output": "green fresh parsley on a plate on white background"
+  },
+  {
+    "index": "6",
+    "image": "/data/pdm102207/ConceptualCaptions/val/13_2381938535.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "transformers : till all are issue # 4b",
+    "pred_output": "image titled make a robot step"
+  },
+  {
+    "index": "6",
+    "image": "/data/pdm102207/ConceptualCaptions/val/13_2381938535.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "transformers : till all are issue # 4b",
+    "pred_output": "an image of the movie 's promotional poster ."
+  },
+  {
+    "index": "6",
+    "image": "/data/pdm102207/ConceptualCaptions/val/13_2381938535.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "transformers : till all are issue # 4b",
+    "pred_output": "game genre - it 's the game i 've been waiting for !"
+  },
+  {
+    "index": "7",
+    "image": "/data/pdm102207/ConceptualCaptions/val/14_1234473513.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of a little girl taking a bath",
+    "pred_output": "cute little boy is taking a bath in bathtub with soap bubbles ."
+  },
+  {
+    "index": "7",
+    "image": "/data/pdm102207/ConceptualCaptions/val/14_1234473513.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of a little girl taking a bath",
+    "pred_output": "illustration of a boy taking a bath"
+  },
+  {
+    "index": "7",
+    "image": "/data/pdm102207/ConceptualCaptions/val/14_1234473513.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of a little girl taking a bath",
+    "pred_output": "little boy in a bathtub with a duck"
+  },
+  {
+    "index": "8",
+    "image": "/data/pdm102207/ConceptualCaptions/val/15_1271612800.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "tv police procedural is filming on the street this week .",
+    "pred_output": "... and here it is again , now that i have a better angle ."
+  },
+  {
+    "index": "8",
+    "image": "/data/pdm102207/ConceptualCaptions/val/15_1271612800.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "tv police procedural is filming on the street this week .",
+    "pred_output": "the window display is filled with lovely blooms ."
+  },
+  {
+    "index": "8",
+    "image": "/data/pdm102207/ConceptualCaptions/val/15_1271612800.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "tv police procedural is filming on the street this week .",
+    "pred_output": "a few of the flowers ."
+  },
+  {
+    "index": "9",
+    "image": "/data/pdm102207/ConceptualCaptions/val/16_1301240100.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the new terminal on island with quiet sea and setting sun",
+    "pred_output": "a ferry dock and restaurant"
+  },
+  {
+    "index": "9",
+    "image": "/data/pdm102207/ConceptualCaptions/val/16_1301240100.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the new terminal on island with quiet sea and setting sun",
+    "pred_output": "a ferry dock with boats in the background"
+  },
+  {
+    "index": "9",
+    "image": "/data/pdm102207/ConceptualCaptions/val/16_1301240100.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the new terminal on island with quiet sea and setting sun",
+    "pred_output": "restaurants and shops in the area"
+  },
+  {
+    "index": "10",
+    "image": "/data/pdm102207/ConceptualCaptions/val/17_3247712378.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "what makeup to wear to a job interview",
+    "pred_output": "business woman using a digital tablet"
+  },
+  {
+    "index": "10",
+    "image": "/data/pdm102207/ConceptualCaptions/val/17_3247712378.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "what makeup to wear to a job interview",
+    "pred_output": "female businesswoman taking a picture of a business card"
+  },
+  {
+    "index": "10",
+    "image": "/data/pdm102207/ConceptualCaptions/val/17_3247712378.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "what makeup to wear to a job interview",
+    "pred_output": "woman working with tablet computer at the table"
+  },
+  {
+    "index": "11",
+    "image": "/data/pdm102207/ConceptualCaptions/val/19_3769728469.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the dentist drill the tooth with a turbine",
+    "pred_output": "dentist putting a dental crown on a tooth"
+  },
+  {
+    "index": "11",
+    "image": "/data/pdm102207/ConceptualCaptions/val/19_3769728469.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the dentist drill the tooth with a turbine",
+    "pred_output": "close up of a dentist examining teeth"
+  },
+  {
+    "index": "11",
+    "image": "/data/pdm102207/ConceptualCaptions/val/19_3769728469.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the dentist drill the tooth with a turbine",
+    "pred_output": "a dental student examining the teeth of a patient"
+  },
+  {
+    "index": "12",
+    "image": "/data/pdm102207/ConceptualCaptions/val/20_16666536.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "pair of new bright orange modern sneakers isolated on a white background",
+    "pred_output": "women 's running shoes isolated on a white background"
+  },
+  {
+    "index": "12",
+    "image": "/data/pdm102207/ConceptualCaptions/val/20_16666536.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "pair of new bright orange modern sneakers isolated on a white background",
+    "pred_output": "a picture of colorful running shoes"
+  },
+  {
+    "index": "12",
+    "image": "/data/pdm102207/ConceptualCaptions/val/20_16666536.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "pair of new bright orange modern sneakers isolated on a white background",
+    "pred_output": "these are the only shoes i 've ever bought that i loved"
+  },
+  {
+    "index": "13",
+    "image": "/data/pdm102207/ConceptualCaptions/val/21_1147360369.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "ask industry to do in our family room ?",
+    "pred_output": "turn the rug under your dining room table into an ottoman ."
+  },
+  {
+    "index": "13",
+    "image": "/data/pdm102207/ConceptualCaptions/val/21_1147360369.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "ask industry to do in our family room ?",
+    "pred_output": "diy projects and ideas for every room of your house ."
+  },
+  {
+    "index": "13",
+    "image": "/data/pdm102207/ConceptualCaptions/val/21_1147360369.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "ask industry to do in our family room ?",
+    "pred_output": "how to decorate a small living room and tips on how to turn a small living room into a beautiful space"
+  },
+  {
+    "index": "14",
+    "image": "/data/pdm102207/ConceptualCaptions/val/22_2623465788.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sandcastle beach on bright sky .",
+    "pred_output": "3d render of a castle on a beach"
+  },
+  {
+    "index": "14",
+    "image": "/data/pdm102207/ConceptualCaptions/val/22_2623465788.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sandcastle beach on bright sky .",
+    "pred_output": "digital art selected for the #"
+  },
+  {
+    "index": "14",
+    "image": "/data/pdm102207/ConceptualCaptions/val/22_2623465788.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sandcastle beach on bright sky .",
+    "pred_output": "a castle on the beach"
+  },
+  {
+    "index": "15",
+    "image": "/data/pdm102207/ConceptualCaptions/val/23_663974810.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cowboy boots are a major hit for spring and summer !",
+    "pred_output": "tips for wearing a summer dress in the winter"
+  },
+  {
+    "index": "15",
+    "image": "/data/pdm102207/ConceptualCaptions/val/23_663974810.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cowboy boots are a major hit for spring and summer !",
+    "pred_output": "dress with a brown belt and flats"
+  },
+  {
+    "index": "15",
+    "image": "/data/pdm102207/ConceptualCaptions/val/23_663974810.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cowboy boots are a major hit for spring and summer !",
+    "pred_output": "black and white outfit with a floral blouse ."
+  },
+  {
+    "index": "16",
+    "image": "/data/pdm102207/ConceptualCaptions/val/24_3007423457.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a humorous call to arms against invention .",
+    "pred_output": "i want a watch like this ."
+  },
+  {
+    "index": "16",
+    "image": "/data/pdm102207/ConceptualCaptions/val/24_3007423457.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a humorous call to arms against invention .",
+    "pred_output": "the gold collar is a focal point"
+  },
+  {
+    "index": "16",
+    "image": "/data/pdm102207/ConceptualCaptions/val/24_3007423457.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a humorous call to arms against invention .",
+    "pred_output": "a close - up of a bracelet ."
+  },
+  {
+    "index": "17",
+    "image": "/data/pdm102207/ConceptualCaptions/val/25_782292920.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "football player said after the game that his players had to learn lessons from the loss",
+    "pred_output": "football player shouts during the match ."
+  },
+  {
+    "index": "17",
+    "image": "/data/pdm102207/ConceptualCaptions/val/25_782292920.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "football player said after the game that his players had to learn lessons from the loss",
+    "pred_output": "football player of gestures during the match ."
+  },
+  {
+    "index": "17",
+    "image": "/data/pdm102207/ConceptualCaptions/val/25_782292920.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "football player said after the game that his players had to learn lessons from the loss",
+    "pred_output": "football player has been impressed by his players"
+  },
+  {
+    "index": "18",
+    "image": "/data/pdm102207/ConceptualCaptions/val/26_3129269903.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "biological species with pup along a city",
+    "pred_output": "a juvenile sea lion , resting on a rock"
+  },
+  {
+    "index": "18",
+    "image": "/data/pdm102207/ConceptualCaptions/val/26_3129269903.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "biological species with pup along a city",
+    "pred_output": "biological species walking along the beach"
+  },
+  {
+    "index": "18",
+    "image": "/data/pdm102207/ConceptualCaptions/val/26_3129269903.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "biological species with pup along a city",
+    "pred_output": "biological species laying in the sun"
+  },
+  {
+    "index": "19",
+    "image": "/data/pdm102207/ConceptualCaptions/val/28_2981274301.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "keeping fans informed : since their birth in january this year , the couple have been keeping fans updated with the babies progress",
+    "pred_output": "cute little baby girl with her mother sitting on a bed"
+  },
+  {
+    "index": "19",
+    "image": "/data/pdm102207/ConceptualCaptions/val/28_2981274301.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "keeping fans informed : since their birth in january this year , the couple have been keeping fans updated with the babies progress",
+    "pred_output": "person has revealed that he 's become a father for the second time , welcoming a baby girl with his wife"
+  },
+  {
+    "index": "19",
+    "image": "/data/pdm102207/ConceptualCaptions/val/28_2981274301.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "keeping fans informed : since their birth in january this year , the couple have been keeping fans updated with the babies progress",
+    "pred_output": "person is a photographer and newborn specialist based"
+  },
+  {
+    "index": "20",
+    "image": "/data/pdm102207/ConceptualCaptions/val/29_1135548102.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a man on a scooter , taking part in the rally",
+    "pred_output": "man riding a scooter over a bridge"
+  },
+  {
+    "index": "20",
+    "image": "/data/pdm102207/ConceptualCaptions/val/29_1135548102.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a man on a scooter , taking part in the rally",
+    "pred_output": "policeman on motor scooter stopping traffic in the street"
+  },
+  {
+    "index": "20",
+    "image": "/data/pdm102207/ConceptualCaptions/val/29_1135548102.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a man on a scooter , taking part in the rally",
+    "pred_output": "a man rides a scooter as he travels along a city"
+  },
+  {
+    "index": "21",
+    "image": "/data/pdm102207/ConceptualCaptions/val/32_1673617707.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "dry fields on a summer day",
+    "pred_output": "a field of freshly plowed soil ."
+  },
+  {
+    "index": "21",
+    "image": "/data/pdm102207/ConceptualCaptions/val/32_1673617707.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "dry fields on a summer day",
+    "pred_output": "aerial view of a field"
+  },
+  {
+    "index": "21",
+    "image": "/data/pdm102207/ConceptualCaptions/val/32_1673617707.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "dry fields on a summer day",
+    "pred_output": "rural field with a plow"
+  },
+  {
+    "index": "22",
+    "image": "/data/pdm102207/ConceptualCaptions/val/34_1356644695.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "how many triangles are there in this picture",
+    "pred_output": "coloring book for adults - a set of coloring books"
+  },
+  {
+    "index": "22",
+    "image": "/data/pdm102207/ConceptualCaptions/val/34_1356644695.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "how many triangles are there in this picture",
+    "pred_output": "a triangle in the grass"
+  },
+  {
+    "index": "22",
+    "image": "/data/pdm102207/ConceptualCaptions/val/34_1356644695.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "how many triangles are there in this picture",
+    "pred_output": "pink polygon by person"
+  },
+  {
+    "index": "23",
+    "image": "/data/pdm102207/ConceptualCaptions/val/35_1045298242.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sand & sea : paradise on the prom - photo",
+    "pred_output": "the bridge over the lagoon"
+  },
+  {
+    "index": "23",
+    "image": "/data/pdm102207/ConceptualCaptions/val/35_1045298242.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sand & sea : paradise on the prom - photo",
+    "pred_output": "a time - lapse of a lighthouse ."
+  },
+  {
+    "index": "23",
+    "image": "/data/pdm102207/ConceptualCaptions/val/35_1045298242.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sand & sea : paradise on the prom - photo",
+    "pred_output": "lighthouse and view of the sea"
+  },
+  {
+    "index": "24",
+    "image": "/data/pdm102207/ConceptualCaptions/val/36_775304325.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "single cowboy guiding a line of horses through the desert",
+    "pred_output": "cowboys riding horses in a field"
+  },
+  {
+    "index": "24",
+    "image": "/data/pdm102207/ConceptualCaptions/val/36_775304325.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "single cowboy guiding a line of horses through the desert",
+    "pred_output": "cowboys riding horses along the trail"
+  },
+  {
+    "index": "24",
+    "image": "/data/pdm102207/ConceptualCaptions/val/36_775304325.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "single cowboy guiding a line of horses through the desert",
+    "pred_output": "a cowboy riding a pair of horses across a dusty landscape"
+  },
+  {
+    "index": "25",
+    "image": "/data/pdm102207/ConceptualCaptions/val/38_1256639643.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "smiling woman dressed in purple sari sitting beside a pink wall outside rural home",
+    "pred_output": "a woman looks on near her home in the village"
+  },
+  {
+    "index": "25",
+    "image": "/data/pdm102207/ConceptualCaptions/val/38_1256639643.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "smiling woman dressed in purple sari sitting beside a pink wall outside rural home",
+    "pred_output": "portrait of an old woman"
+  },
+  {
+    "index": "25",
+    "image": "/data/pdm102207/ConceptualCaptions/val/38_1256639643.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "smiling woman dressed in purple sari sitting beside a pink wall outside rural home",
+    "pred_output": "a portrait of an elderly woman"
+  },
+  {
+    "index": "26",
+    "image": "/data/pdm102207/ConceptualCaptions/val/41_2927080710.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of a boy walking across the bakery",
+    "pred_output": "the boy in a striped uniform in a bakery ."
+  },
+  {
+    "index": "26",
+    "image": "/data/pdm102207/ConceptualCaptions/val/41_2927080710.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of a boy walking across the bakery",
+    "pred_output": "illustration of a baker in the street"
+  },
+  {
+    "index": "26",
+    "image": "/data/pdm102207/ConceptualCaptions/val/41_2927080710.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of a boy walking across the bakery",
+    "pred_output": "the boy is holding a sign with text ."
+  },
+  {
+    "index": "27",
+    "image": "/data/pdm102207/ConceptualCaptions/val/43_3421731505.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the description of this sculpture is in the previous photo .",
+    "pred_output": "the statue of monarch in front"
+  },
+  {
+    "index": "27",
+    "image": "/data/pdm102207/ConceptualCaptions/val/43_3421731505.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the description of this sculpture is in the previous photo .",
+    "pred_output": "statue of a horse and a lion ."
+  },
+  {
+    "index": "27",
+    "image": "/data/pdm102207/ConceptualCaptions/val/43_3421731505.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the description of this sculpture is in the previous photo .",
+    "pred_output": "a bronze sculpture of a lion and lioness sitting on a large stone ."
+  },
+  {
+    "index": "28",
+    "image": "/data/pdm102207/ConceptualCaptions/val/44_580196209.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "flying over the mountains and lake",
+    "pred_output": "looking down at the landscape from airplane ."
+  },
+  {
+    "index": "28",
+    "image": "/data/pdm102207/ConceptualCaptions/val/44_580196209.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "flying over the mountains and lake",
+    "pred_output": "airport which has been one of the busiest airports in the world ."
+  },
+  {
+    "index": "28",
+    "image": "/data/pdm102207/ConceptualCaptions/val/44_580196209.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "flying over the mountains and lake",
+    "pred_output": "flying over the mountains at sunset"
+  },
+  {
+    "index": "29",
+    "image": "/data/pdm102207/ConceptualCaptions/val/45_2754486675.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "stormy marriage : the couple appeared happy in this picture .",
+    "pred_output": "family : the couple , pictured with their daughter , have welcomed a baby girl"
+  },
+  {
+    "index": "29",
+    "image": "/data/pdm102207/ConceptualCaptions/val/45_2754486675.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "stormy marriage : the couple appeared happy in this picture .",
+    "pred_output": "family and friends gathered to say goodbye to person , whose family says he died from a drug overdose ."
+  },
+  {
+    "index": "29",
+    "image": "/data/pdm102207/ConceptualCaptions/val/45_2754486675.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "stormy marriage : the couple appeared happy in this picture .",
+    "pred_output": "celebrity and film character at the event ."
+  },
+  {
+    "index": "30",
+    "image": "/data/pdm102207/ConceptualCaptions/val/47_223526918.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "political map with the several counties wherea city is highlighted .",
+    "pred_output": "map in gray on a white background stock photo"
+  },
+  {
+    "index": "30",
+    "image": "/data/pdm102207/ConceptualCaptions/val/47_223526918.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "political map with the several counties wherea city is highlighted .",
+    "pred_output": "map on the white background"
+  },
+  {
+    "index": "30",
+    "image": "/data/pdm102207/ConceptualCaptions/val/47_223526918.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "political map with the several counties wherea city is highlighted .",
+    "pred_output": "political map with the several regions or counties where country is highlighted --"
+  },
+  {
+    "index": "31",
+    "image": "/data/pdm102207/ConceptualCaptions/val/48_937223027.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "how to add privacy and texture to any window or industry for less than $20 .",
+    "pred_output": "i like the way the window opens from inside the screen door ."
+  },
+  {
+    "index": "31",
+    "image": "/data/pdm102207/ConceptualCaptions/val/48_937223027.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "how to add privacy and texture to any window or industry for less than $20 .",
+    "pred_output": "the house before we painted the front door"
+  },
+  {
+    "index": "31",
+    "image": "/data/pdm102207/ConceptualCaptions/val/48_937223027.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "how to add privacy and texture to any window or industry for less than $20 .",
+    "pred_output": "view from the window of my bedroom"
+  },
+  {
+    "index": "32",
+    "image": "/data/pdm102207/ConceptualCaptions/val/49_1549811707.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "vector illustration of a banner for holiday with colorful kites .",
+    "pred_output": "vector illustration of a banner for holiday ."
+  },
+  {
+    "index": "32",
+    "image": "/data/pdm102207/ConceptualCaptions/val/49_1549811707.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "vector illustration of a banner for holiday with colorful kites .",
+    "pred_output": "vector illustration of a banner for celebration ."
+  },
+  {
+    "index": "32",
+    "image": "/data/pdm102207/ConceptualCaptions/val/49_1549811707.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "vector illustration of a banner for holiday with colorful kites .",
+    "pred_output": "vector illustration of a banner for celebration ."
+  },
+  {
+    "index": "33",
+    "image": "/data/pdm102207/ConceptualCaptions/val/52_3529402452.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cranes at a high rise development",
+    "pred_output": "a crane and construction site"
+  },
+  {
+    "index": "33",
+    "image": "/data/pdm102207/ConceptualCaptions/val/52_3529402452.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cranes at a high rise development",
+    "pred_output": "cranes working at a construction site"
+  },
+  {
+    "index": "33",
+    "image": "/data/pdm102207/ConceptualCaptions/val/52_3529402452.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cranes at a high rise development",
+    "pred_output": "a building under construction is seen"
+  },
+  {
+    "index": "34",
+    "image": "/data/pdm102207/ConceptualCaptions/val/54_3910261296.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "even during the winter months , there is plenty to see , do and admire outside .",
+    "pred_output": "winter wonderland : the snow - covered beach"
+  },
+  {
+    "index": "34",
+    "image": "/data/pdm102207/ConceptualCaptions/val/54_3910261296.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "even during the winter months , there is plenty to see , do and admire outside .",
+    "pred_output": "a winter wonderland : get lost and find yourself in some of the snowiest places ."
+  },
+  {
+    "index": "34",
+    "image": "/data/pdm102207/ConceptualCaptions/val/54_3910261296.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "even during the winter months , there is plenty to see , do and admire outside .",
+    "pred_output": "a city in the winter"
+  },
+  {
+    "index": "35",
+    "image": "/data/pdm102207/ConceptualCaptions/val/55_3548581571.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "spooky food at the party",
+    "pred_output": "western christian holiday is a time to gather and celebrate with friends and family ."
+  },
+  {
+    "index": "35",
+    "image": "/data/pdm102207/ConceptualCaptions/val/55_3548581571.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "spooky food at the party",
+    "pred_output": "get ready for western christian holiday with these spooky treats ."
+  },
+  {
+    "index": "35",
+    "image": "/data/pdm102207/ConceptualCaptions/val/55_3548581571.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "spooky food at the party",
+    "pred_output": "candy as a decoration ... i love this idea !"
+  },
+  {
+    "index": "36",
+    "image": "/data/pdm102207/ConceptualCaptions/val/56_98280541.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "i like how the hot tub is in the deck .",
+    "pred_output": "i built a pool for my dog ."
+  },
+  {
+    "index": "36",
+    "image": "/data/pdm102207/ConceptualCaptions/val/56_98280541.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "i like how the hot tub is in the deck .",
+    "pred_output": "the cover for the pond"
+  },
+  {
+    "index": "36",
+    "image": "/data/pdm102207/ConceptualCaptions/val/56_98280541.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "i like how the hot tub is in the deck .",
+    "pred_output": "my friend made a water slide for his dog and i thought it would be perfect for my garden ."
+  },
+  {
+    "index": "37",
+    "image": "/data/pdm102207/ConceptualCaptions/val/57_2752105448.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a commuter train travels next",
+    "pred_output": "trains running along the elevated tracks"
+  },
+  {
+    "index": "37",
+    "image": "/data/pdm102207/ConceptualCaptions/val/57_2752105448.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a commuter train travels next",
+    "pred_output": "aerial view of train and traffic"
+  },
+  {
+    "index": "37",
+    "image": "/data/pdm102207/ConceptualCaptions/val/57_2752105448.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a commuter train travels next",
+    "pred_output": "railroad tracks leading to a ship"
+  },
+  {
+    "index": "38",
+    "image": "/data/pdm102207/ConceptualCaptions/val/58_1268597952.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "hair today : the former model has bolstered his thinning locks with a \u00a3 6,000 operation",
+    "pred_output": "a man who lost his eyebrows has grown them back -- only to shave them off again"
+  },
+  {
+    "index": "38",
+    "image": "/data/pdm102207/ConceptualCaptions/val/58_1268597952.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "hair today : the former model has bolstered his thinning locks with a \u00a3 6,000 operation",
+    "pred_output": "the man with the most hair"
+  },
+  {
+    "index": "38",
+    "image": "/data/pdm102207/ConceptualCaptions/val/58_1268597952.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "hair today : the former model has bolstered his thinning locks with a \u00a3 6,000 operation",
+    "pred_output": "a man who has had the top of his head shaved off to look like actor ."
+  },
+  {
+    "index": "39",
+    "image": "/data/pdm102207/ConceptualCaptions/val/60_1211233467.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "couple time along the west coast .",
+    "pred_output": "my husband and i took a trip last year ."
+  },
+  {
+    "index": "39",
+    "image": "/data/pdm102207/ConceptualCaptions/val/60_1211233467.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "couple time along the west coast .",
+    "pred_output": "person and i on the coast ."
+  },
+  {
+    "index": "39",
+    "image": "/data/pdm102207/ConceptualCaptions/val/60_1211233467.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "couple time along the west coast .",
+    "pred_output": "on our way to the summit"
+  },
+  {
+    "index": "40",
+    "image": "/data/pdm102207/ConceptualCaptions/val/61_2643743841.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person feeding apples to an elephant in captivity",
+    "pred_output": "washing a baby elephant with soap , water and a hose"
+  },
+  {
+    "index": "40",
+    "image": "/data/pdm102207/ConceptualCaptions/val/61_2643743841.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person feeding apples to an elephant in captivity",
+    "pred_output": "an elephant being washed by her keeper in the zoo"
+  },
+  {
+    "index": "40",
+    "image": "/data/pdm102207/ConceptualCaptions/val/61_2643743841.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person feeding apples to an elephant in captivity",
+    "pred_output": "animal with handlers at a waterfall in the mountains"
+  },
+  {
+    "index": "41",
+    "image": "/data/pdm102207/ConceptualCaptions/val/62_1543107145.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "religious leadership title holds a private audience with pilgrims",
+    "pred_output": "person performs during the festival"
+  },
+  {
+    "index": "41",
+    "image": "/data/pdm102207/ConceptualCaptions/val/62_1543107145.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "religious leadership title holds a private audience with pilgrims",
+    "pred_output": "a crowd gather to listen to the spiritual teachings of religious leadership title at an event"
+  },
+  {
+    "index": "41",
+    "image": "/data/pdm102207/ConceptualCaptions/val/62_1543107145.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "religious leadership title holds a private audience with pilgrims",
+    "pred_output": "religion - monks in the crowd"
+  },
+  {
+    "index": "42",
+    "image": "/data/pdm102207/ConceptualCaptions/val/63_2638511190.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "building function is cool , but lacks some needed things for a total experience .",
+    "pred_output": "another layout of our court ."
+  },
+  {
+    "index": "42",
+    "image": "/data/pdm102207/ConceptualCaptions/val/63_2638511190.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "building function is cool , but lacks some needed things for a total experience .",
+    "pred_output": "check out this new court at my club !"
+  },
+  {
+    "index": "42",
+    "image": "/data/pdm102207/ConceptualCaptions/val/63_2638511190.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "building function is cool , but lacks some needed things for a total experience .",
+    "pred_output": "this is the finished map with the blue tape !"
+  },
+  {
+    "index": "43",
+    "image": "/data/pdm102207/ConceptualCaptions/val/64_4081407971.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "leaves vector illustration on a seamless pattern background",
+    "pred_output": "seamless pattern with a graphic elements"
+  },
+  {
+    "index": "43",
+    "image": "/data/pdm102207/ConceptualCaptions/val/64_4081407971.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "leaves vector illustration on a seamless pattern background",
+    "pred_output": "this pattern was made with our hand drawn black and white symbols"
+  },
+  {
+    "index": "43",
+    "image": "/data/pdm102207/ConceptualCaptions/val/64_4081407971.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "leaves vector illustration on a seamless pattern background",
+    "pred_output": "seamless pattern of colored lines on a black background"
+  },
+  {
+    "index": "44",
+    "image": "/data/pdm102207/ConceptualCaptions/val/66_3378204332.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "interior of building function , altered a little for the event",
+    "pred_output": "a city during the event"
+  },
+  {
+    "index": "44",
+    "image": "/data/pdm102207/ConceptualCaptions/val/66_3378204332.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "interior of building function , altered a little for the event",
+    "pred_output": "the crowd was in full swing at the launch of industry on wednesday night"
+  },
+  {
+    "index": "44",
+    "image": "/data/pdm102207/ConceptualCaptions/val/66_3378204332.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "interior of building function , altered a little for the event",
+    "pred_output": "a party with a view"
+  },
+  {
+    "index": "45",
+    "image": "/data/pdm102207/ConceptualCaptions/val/68_3826871962.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "young bearded caucasian modern business man sitting in a bar , using laptop , looking downward , tapping on keyboard",
+    "pred_output": "businessmen having a conversation and meeting in the cafe"
+  },
+  {
+    "index": "45",
+    "image": "/data/pdm102207/ConceptualCaptions/val/68_3826871962.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "young bearded caucasian modern business man sitting in a bar , using laptop , looking downward , tapping on keyboard",
+    "pred_output": "young businessmen having lunch in the office with laptop"
+  },
+  {
+    "index": "45",
+    "image": "/data/pdm102207/ConceptualCaptions/val/68_3826871962.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "young bearded caucasian modern business man sitting in a bar , using laptop , looking downward , tapping on keyboard",
+    "pred_output": "businessmen in a cafe"
+  },
+  {
+    "index": "46",
+    "image": "/data/pdm102207/ConceptualCaptions/val/69_2425266508.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "beach volleyball player defends against person during the women 's main draw .",
+    "pred_output": "person and person at the net"
+  },
+  {
+    "index": "46",
+    "image": "/data/pdm102207/ConceptualCaptions/val/69_2425266508.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "beach volleyball player defends against person during the women 's main draw .",
+    "pred_output": "person and actor in action during the beach volleyball match ."
+  },
+  {
+    "index": "46",
+    "image": "/data/pdm102207/ConceptualCaptions/val/69_2425266508.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "beach volleyball player defends against person during the women 's main draw .",
+    "pred_output": "person jumps for the ball during their third round match against the pair ."
+  },
+  {
+    "index": "47",
+    "image": "/data/pdm102207/ConceptualCaptions/val/71_3515781415.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "marking our way through the dunes as we neared the coast",
+    "pred_output": "pine tree growing from the sand"
+  },
+  {
+    "index": "47",
+    "image": "/data/pdm102207/ConceptualCaptions/val/71_3515781415.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "marking our way through the dunes as we neared the coast",
+    "pred_output": "the bare trees in february ."
+  },
+  {
+    "index": "47",
+    "image": "/data/pdm102207/ConceptualCaptions/val/71_3515781415.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "marking our way through the dunes as we neared the coast",
+    "pred_output": "these are my kind of trees ."
+  },
+  {
+    "index": "48",
+    "image": "/data/pdm102207/ConceptualCaptions/val/72_644087762.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a silhouetted palm tree with boat tied to it rests on a beach that a man walks across during golden hour",
+    "pred_output": "sunset view with surfer on the horizon"
+  },
+  {
+    "index": "48",
+    "image": "/data/pdm102207/ConceptualCaptions/val/72_644087762.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a silhouetted palm tree with boat tied to it rests on a beach that a man walks across during golden hour",
+    "pred_output": "person with his board , watching the sunset ."
+  },
+  {
+    "index": "48",
+    "image": "/data/pdm102207/ConceptualCaptions/val/72_644087762.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a silhouetted palm tree with boat tied to it rests on a beach that a man walks across during golden hour",
+    "pred_output": "a surfer looks out to the ocean as the sun sets ."
+  },
+  {
+    "index": "49",
+    "image": "/data/pdm102207/ConceptualCaptions/val/73_346911358.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a time - lapse video of the sky .",
+    "pred_output": "clouds move across a blue sky over branches of a tree"
+  },
+  {
+    "index": "49",
+    "image": "/data/pdm102207/ConceptualCaptions/val/73_346911358.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a time - lapse video of the sky .",
+    "pred_output": "clouds moving fast over a green forest with birch tree ."
+  },
+  {
+    "index": "49",
+    "image": "/data/pdm102207/ConceptualCaptions/val/73_346911358.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a time - lapse video of the sky .",
+    "pred_output": "white clouds in the sky"
+  },
+  {
+    "index": "50",
+    "image": "/data/pdm102207/ConceptualCaptions/val/74_707769663.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "scattered clouds moving rapidly in blue skies reflecting the sunrise , then vanishing to clear skies",
+    "pred_output": "time lapse of the sky with clouds and the moon in motion"
+  },
+  {
+    "index": "50",
+    "image": "/data/pdm102207/ConceptualCaptions/val/74_707769663.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "scattered clouds moving rapidly in blue skies reflecting the sunrise , then vanishing to clear skies",
+    "pred_output": "fluffy white clouds moving slowly in the sky"
+  },
+  {
+    "index": "50",
+    "image": "/data/pdm102207/ConceptualCaptions/val/74_707769663.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "scattered clouds moving rapidly in blue skies reflecting the sunrise , then vanishing to clear skies",
+    "pred_output": "clouds in the blue sky , dolly"
+  },
+  {
+    "index": "51",
+    "image": "/data/pdm102207/ConceptualCaptions/val/75_3398630238.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a skull and cross bones pirate flag blows in the wind",
+    "pred_output": "flag on a tall ship ."
+  },
+  {
+    "index": "51",
+    "image": "/data/pdm102207/ConceptualCaptions/val/75_3398630238.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a skull and cross bones pirate flag blows in the wind",
+    "pred_output": "flag on the ship in the background ."
+  },
+  {
+    "index": "51",
+    "image": "/data/pdm102207/ConceptualCaptions/val/75_3398630238.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a skull and cross bones pirate flag blows in the wind",
+    "pred_output": "flag waving in the wind"
+  },
+  {
+    "index": "52",
+    "image": "/data/pdm102207/ConceptualCaptions/val/76_629302120.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "mixing the flour , sugar , salt and yeast for a pizza dough",
+    "pred_output": "sugar in a large bowl"
+  },
+  {
+    "index": "52",
+    "image": "/data/pdm102207/ConceptualCaptions/val/76_629302120.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "mixing the flour , sugar , salt and yeast for a pizza dough",
+    "pred_output": "sugar in the dough is creamed with a mixer"
+  },
+  {
+    "index": "52",
+    "image": "/data/pdm102207/ConceptualCaptions/val/76_629302120.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "mixing the flour , sugar , salt and yeast for a pizza dough",
+    "pred_output": "male hand putting flour in the dough with a wooden spoon"
+  },
+  {
+    "index": "53",
+    "image": "/data/pdm102207/ConceptualCaptions/val/77_1784060221.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "court during a volleyball game",
+    "pred_output": "the floor of the arena is visible in this photo ."
+  },
+  {
+    "index": "53",
+    "image": "/data/pdm102207/ConceptualCaptions/val/77_1784060221.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "court during a volleyball game",
+    "pred_output": "the gymnasium during the opening ceremony ."
+  },
+  {
+    "index": "53",
+    "image": "/data/pdm102207/ConceptualCaptions/val/77_1784060221.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "court during a volleyball game",
+    "pred_output": "the - acre campus , including the gym , will be sold for $8 million to make room for more dorms"
+  },
+  {
+    "index": "54",
+    "image": "/data/pdm102207/ConceptualCaptions/val/79_3786399715.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "baby lying in the bed with spoon",
+    "pred_output": "baby boy with a bottle and a spoon"
+  },
+  {
+    "index": "54",
+    "image": "/data/pdm102207/ConceptualCaptions/val/79_3786399715.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "baby lying in the bed with spoon",
+    "pred_output": "baby boy playing with a spoon"
+  },
+  {
+    "index": "54",
+    "image": "/data/pdm102207/ConceptualCaptions/val/79_3786399715.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "baby lying in the bed with spoon",
+    "pred_output": "a little cute baby boy playing with teeth"
+  },
+  {
+    "index": "55",
+    "image": "/data/pdm102207/ConceptualCaptions/val/80_3614816367.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "an image of a cartoon sad woman .",
+    "pred_output": "illustration of a woman 's face expressing a feeling of sadness , disappointment or worry"
+  },
+  {
+    "index": "55",
+    "image": "/data/pdm102207/ConceptualCaptions/val/80_3614816367.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "an image of a cartoon sad woman .",
+    "pred_output": "portrait of a young girl ."
+  },
+  {
+    "index": "55",
+    "image": "/data/pdm102207/ConceptualCaptions/val/80_3614816367.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "an image of a cartoon sad woman .",
+    "pred_output": "portrait of a sad woman ."
+  },
+  {
+    "index": "56",
+    "image": "/data/pdm102207/ConceptualCaptions/val/81_3864762177.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "creative fan - made movie posters as good or better than the real thing ?",
+    "pred_output": "the wallpaper possibly with a movie entitled wallpaper"
+  },
+  {
+    "index": "56",
+    "image": "/data/pdm102207/ConceptualCaptions/val/81_3864762177.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "creative fan - made movie posters as good or better than the real thing ?",
+    "pred_output": "my movie poster for animation film ."
+  },
+  {
+    "index": "56",
+    "image": "/data/pdm102207/ConceptualCaptions/val/81_3864762177.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "creative fan - made movie posters as good or better than the real thing ?",
+    "pred_output": "the movie poster for film"
+  },
+  {
+    "index": "57",
+    "image": "/data/pdm102207/ConceptualCaptions/val/82_4191217834.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "style which is an emblem for royals , government",
+    "pred_output": "vector illustration of a crown"
+  },
+  {
+    "index": "57",
+    "image": "/data/pdm102207/ConceptualCaptions/val/82_4191217834.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "style which is an emblem for royals , government",
+    "pred_output": "vector illustration of the crown on white"
+  },
+  {
+    "index": "57",
+    "image": "/data/pdm102207/ConceptualCaptions/val/82_4191217834.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "style which is an emblem for royals , government",
+    "pred_output": "vector illustration of the crown"
+  },
+  {
+    "index": "58",
+    "image": "/data/pdm102207/ConceptualCaptions/val/83_1379939087.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "combines famous scenes from plays with the internet 's favorite animal .",
+    "pred_output": "the king and his cat - a painting by painting artist"
+  },
+  {
+    "index": "58",
+    "image": "/data/pdm102207/ConceptualCaptions/val/83_1379939087.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "combines famous scenes from plays with the internet 's favorite animal .",
+    "pred_output": "person and the cat in front of the moon"
+  },
+  {
+    "index": "58",
+    "image": "/data/pdm102207/ConceptualCaptions/val/83_1379939087.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "combines famous scenes from plays with the internet 's favorite animal .",
+    "pred_output": "the king and the cat ."
+  },
+  {
+    "index": "59",
+    "image": "/data/pdm102207/ConceptualCaptions/val/84_4230133640.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cover of the book by organization leader",
+    "pred_output": "poster for the film , starring actors"
+  },
+  {
+    "index": "59",
+    "image": "/data/pdm102207/ConceptualCaptions/val/84_4230133640.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cover of the book by organization leader",
+    "pred_output": "the movie of the year"
+  },
+  {
+    "index": "59",
+    "image": "/data/pdm102207/ConceptualCaptions/val/84_4230133640.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "cover of the book by organization leader",
+    "pred_output": "digital art selected for the #"
+  },
+  {
+    "index": "60",
+    "image": "/data/pdm102207/ConceptualCaptions/val/85_4268728434.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "majestic elegance - downstairs main bar in the massive lobby .",
+    "pred_output": "the casino floor at hotel"
+  },
+  {
+    "index": "60",
+    "image": "/data/pdm102207/ConceptualCaptions/val/85_4268728434.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "majestic elegance - downstairs main bar in the massive lobby .",
+    "pred_output": "photo of the lobby , taken by person ."
+  },
+  {
+    "index": "60",
+    "image": "/data/pdm102207/ConceptualCaptions/val/85_4268728434.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "majestic elegance - downstairs main bar in the massive lobby .",
+    "pred_output": "i 'm a sucker for a fancy lobby"
+  },
+  {
+    "index": "61",
+    "image": "/data/pdm102207/ConceptualCaptions/val/86_593677570.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person , 20th century oil on board still life of flowers in a vase , signed bottom left",
+    "pred_output": "still life with flowers by painting artist"
+  },
+  {
+    "index": "61",
+    "image": "/data/pdm102207/ConceptualCaptions/val/86_593677570.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person , 20th century oil on board still life of flowers in a vase , signed bottom left",
+    "pred_output": "still life with flowers by painting artist"
+  },
+  {
+    "index": "61",
+    "image": "/data/pdm102207/ConceptualCaptions/val/86_593677570.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person , 20th century oil on board still life of flowers in a vase , signed bottom left",
+    "pred_output": "a still life with flowers by person ."
+  },
+  {
+    "index": "62",
+    "image": "/data/pdm102207/ConceptualCaptions/val/87_3110083367.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in white and gold for the summer lovely",
+    "pred_output": "a look at the shoes worn by rap artist in the music video for his song ."
+  },
+  {
+    "index": "62",
+    "image": "/data/pdm102207/ConceptualCaptions/val/87_3110083367.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in white and gold for the summer lovely",
+    "pred_output": "these shoes are so dope i can not believe i am seeing this"
+  },
+  {
+    "index": "62",
+    "image": "/data/pdm102207/ConceptualCaptions/val/87_3110083367.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in white and gold for the summer lovely",
+    "pred_output": "custom - made shoes created for the first rapper , are displayed ."
+  },
+  {
+    "index": "63",
+    "image": "/data/pdm102207/ConceptualCaptions/val/88_2111731442.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "camera a camera is used for photographic documentation of observations that can be viewed at a later time .",
+    "pred_output": "photographic camera a device that records an image using light - sensitive cells ."
+  },
+  {
+    "index": "63",
+    "image": "/data/pdm102207/ConceptualCaptions/val/88_2111731442.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "camera a camera is used for photographic documentation of observations that can be viewed at a later time .",
+    "pred_output": "digital camera a digital camera captures an image , digitizing it so that it can be saved and stored in a digital format ."
+  },
+  {
+    "index": "63",
+    "image": "/data/pdm102207/ConceptualCaptions/val/88_2111731442.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "camera a camera is used for photographic documentation of observations that can be viewed at a later time .",
+    "pred_output": "digital camera this is a small handheld camera that captures images on a digital sensor instead of a roll of film ."
+  },
+  {
+    "index": "64",
+    "image": "/data/pdm102207/ConceptualCaptions/val/89_2526595473.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "receive a card when you replace your windshield and pay with your insurance !",
+    "pred_output": "a technician repairs a vehicle ."
+  },
+  {
+    "index": "64",
+    "image": "/data/pdm102207/ConceptualCaptions/val/89_2526595473.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "receive a card when you replace your windshield and pay with your insurance !",
+    "pred_output": "the car is being repaired ."
+  },
+  {
+    "index": "64",
+    "image": "/data/pdm102207/ConceptualCaptions/val/89_2526595473.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "receive a card when you replace your windshield and pay with your insurance !",
+    "pred_output": "a man works on the body of a vehicle"
+  },
+  {
+    "index": "65",
+    "image": "/data/pdm102207/ConceptualCaptions/val/92_778819210.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "detail of a painting by person",
+    "pred_output": "romance film by novelist - read on a bed"
+  },
+  {
+    "index": "65",
+    "image": "/data/pdm102207/ConceptualCaptions/val/92_778819210.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "detail of a painting by person",
+    "pred_output": "person is an illustrator who uses pencil and digital tools to create art inspired by the past ."
+  },
+  {
+    "index": "65",
+    "image": "/data/pdm102207/ConceptualCaptions/val/92_778819210.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "detail of a painting by person",
+    "pred_output": "in this painting by person the woman has fallen asleep with her head resting on a book"
+  },
+  {
+    "index": "66",
+    "image": "/data/pdm102207/ConceptualCaptions/val/93_1964235077.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "christmas gingerbread in the shape of an umbrella -- stock photo #",
+    "pred_output": "person and christmas ornament on a christmas tree"
+  },
+  {
+    "index": "66",
+    "image": "/data/pdm102207/ConceptualCaptions/val/93_1964235077.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "christmas gingerbread in the shape of an umbrella -- stock photo #",
+    "pred_output": "christmas ball with angel on the tree ."
+  },
+  {
+    "index": "66",
+    "image": "/data/pdm102207/ConceptualCaptions/val/93_1964235077.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "christmas gingerbread in the shape of an umbrella -- stock photo #",
+    "pred_output": "ornament on the christmas tree -- stock photo #"
+  },
+  {
+    "index": "67",
+    "image": "/data/pdm102207/ConceptualCaptions/val/94_3272894817.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a male bull standing in a field",
+    "pred_output": "portrait of a brown bull"
+  },
+  {
+    "index": "67",
+    "image": "/data/pdm102207/ConceptualCaptions/val/94_3272894817.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a male bull standing in a field",
+    "pred_output": "head of a bull in a field"
+  },
+  {
+    "index": "67",
+    "image": "/data/pdm102207/ConceptualCaptions/val/94_3272894817.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a male bull standing in a field",
+    "pred_output": "a cow with horns stands in the grass with a blue sky behind it"
+  },
+  {
+    "index": "68",
+    "image": "/data/pdm102207/ConceptualCaptions/val/96_1749947873.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "tourist attraction the gardens gifted by fashion business to the city",
+    "pred_output": "woman sitting in a garden surrounded by flowers and water fountain"
+  },
+  {
+    "index": "68",
+    "image": "/data/pdm102207/ConceptualCaptions/val/96_1749947873.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "tourist attraction the gardens gifted by fashion business to the city",
+    "pred_output": "woman in a garden in the city"
+  },
+  {
+    "index": "68",
+    "image": "/data/pdm102207/ConceptualCaptions/val/96_1749947873.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "tourist attraction the gardens gifted by fashion business to the city",
+    "pred_output": "woman sitting on a bench in a private garden"
+  },
+  {
+    "index": "69",
+    "image": "/data/pdm102207/ConceptualCaptions/val/98_4002808672.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "patterns in the sand beach",
+    "pred_output": "abstract image of sand in a desert"
+  },
+  {
+    "index": "69",
+    "image": "/data/pdm102207/ConceptualCaptions/val/98_4002808672.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "patterns in the sand beach",
+    "pred_output": "aerial view of the desert"
+  },
+  {
+    "index": "69",
+    "image": "/data/pdm102207/ConceptualCaptions/val/98_4002808672.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "patterns in the sand beach",
+    "pred_output": "the texture of the sand of the beach"
+  },
+  {
+    "index": "70",
+    "image": "/data/pdm102207/ConceptualCaptions/val/100_4151571516.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "logo , golden important person on a black background -- stock vector #",
+    "pred_output": "logo of the cigarettes with a bottle of champagne vector graphics"
+  },
+  {
+    "index": "70",
+    "image": "/data/pdm102207/ConceptualCaptions/val/100_4151571516.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "logo , golden important person on a black background -- stock vector #",
+    "pred_output": "logo for a new cigar ."
+  },
+  {
+    "index": "70",
+    "image": "/data/pdm102207/ConceptualCaptions/val/100_4151571516.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "logo , golden important person on a black background -- stock vector #",
+    "pred_output": "the logo of cigarettes for men ."
+  },
+  {
+    "index": "71",
+    "image": "/data/pdm102207/ConceptualCaptions/val/101_1333207497.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "vegetation on a sand dune",
+    "pred_output": "a view from the beach at the entrance"
+  },
+  {
+    "index": "71",
+    "image": "/data/pdm102207/ConceptualCaptions/val/101_1333207497.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "vegetation on a sand dune",
+    "pred_output": "a long stretch of beach"
+  },
+  {
+    "index": "71",
+    "image": "/data/pdm102207/ConceptualCaptions/val/101_1333207497.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "vegetation on a sand dune",
+    "pred_output": "dune with vegetation and sand on the beach"
+  },
+  {
+    "index": "72",
+    "image": "/data/pdm102207/ConceptualCaptions/val/102_2490697808.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a helicopter hovers above structure .",
+    "pred_output": "a helicopter prepares to land as it flies over tourist attraction in the desert"
+  },
+  {
+    "index": "72",
+    "image": "/data/pdm102207/ConceptualCaptions/val/102_2490697808.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a helicopter hovers above structure .",
+    "pred_output": "a helicopter flying in the desert"
+  },
+  {
+    "index": "72",
+    "image": "/data/pdm102207/ConceptualCaptions/val/102_2490697808.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a helicopter hovers above structure .",
+    "pred_output": "helicopter on a dusty airstrip"
+  },
+  {
+    "index": "73",
+    "image": "/data/pdm102207/ConceptualCaptions/val/103_2698722496.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the vivid use of color to give life to every type of flower and plants .",
+    "pred_output": "pink flowers on a white background"
+  },
+  {
+    "index": "73",
+    "image": "/data/pdm102207/ConceptualCaptions/val/103_2698722496.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the vivid use of color to give life to every type of flower and plants .",
+    "pred_output": "in the style of the 1970s ."
+  },
+  {
+    "index": "73",
+    "image": "/data/pdm102207/ConceptualCaptions/val/103_2698722496.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the vivid use of color to give life to every type of flower and plants .",
+    "pred_output": "seamless tropical pattern with colorful hibiscus flowers on a light background ."
+  },
+  {
+    "index": "74",
+    "image": "/data/pdm102207/ConceptualCaptions/val/104_354803055.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "firework display from the beach",
+    "pred_output": "fireworks in the harbor at night ."
+  },
+  {
+    "index": "74",
+    "image": "/data/pdm102207/ConceptualCaptions/val/104_354803055.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "firework display from the beach",
+    "pred_output": "colorful fireworks lighting up the night sky above the city"
+  },
+  {
+    "index": "74",
+    "image": "/data/pdm102207/ConceptualCaptions/val/104_354803055.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "firework display from the beach",
+    "pred_output": "fireworks light up the sky during celebrations"
+  },
+  {
+    "index": "75",
+    "image": "/data/pdm102207/ConceptualCaptions/val/105_2071288856.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "abstract speech bubbles in the shape of clouds used in a social networks on light blue background .",
+    "pred_output": "vector illustration of a background for holiday ."
+  },
+  {
+    "index": "75",
+    "image": "/data/pdm102207/ConceptualCaptions/val/105_2071288856.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "abstract speech bubbles in the shape of clouds used in a social networks on light blue background .",
+    "pred_output": "vector illustration of a banner for holiday ."
+  },
+  {
+    "index": "75",
+    "image": "/data/pdm102207/ConceptualCaptions/val/105_2071288856.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "abstract speech bubbles in the shape of clouds used in a social networks on light blue background .",
+    "pred_output": "summer holidays in the mountains with clouds ."
+  },
+  {
+    "index": "76",
+    "image": "/data/pdm102207/ConceptualCaptions/val/106_1344657449.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "life during the 1950s during the 1950s boats were still wooden .",
+    "pred_output": "sailors from the crew of person on a makeshift boat made from a table and fishing net"
+  },
+  {
+    "index": "76",
+    "image": "/data/pdm102207/ConceptualCaptions/val/106_1344657449.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "life during the 1950s during the 1950s boats were still wooden .",
+    "pred_output": "life on the ferry to island"
+  },
+  {
+    "index": "76",
+    "image": "/data/pdm102207/ConceptualCaptions/val/106_1344657449.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "life during the 1950s during the 1950s boats were still wooden .",
+    "pred_output": "photo of women and children relaxing on a boat ."
+  },
+  {
+    "index": "77",
+    "image": "/data/pdm102207/ConceptualCaptions/val/107_2797159669.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sunny with a chance of broccoli",
+    "pred_output": "my friend thinks that people who eat raw vegetables are healthy"
+  },
+  {
+    "index": "77",
+    "image": "/data/pdm102207/ConceptualCaptions/val/107_2797159669.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sunny with a chance of broccoli",
+    "pred_output": "if the tree and the earth could speak"
+  },
+  {
+    "index": "77",
+    "image": "/data/pdm102207/ConceptualCaptions/val/107_2797159669.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "sunny with a chance of broccoli",
+    "pred_output": "what 's the most important lesson you learned from this book"
+  },
+  {
+    "index": "78",
+    "image": "/data/pdm102207/ConceptualCaptions/val/109_1584336966.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "embroidery colorful floral seamless pattern with poppies and lilies of the valley .",
+    "pred_output": "seamless vector pattern in ethnic style ."
+  },
+  {
+    "index": "78",
+    "image": "/data/pdm102207/ConceptualCaptions/val/109_1584336966.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "embroidery colorful floral seamless pattern with poppies and lilies of the valley .",
+    "pred_output": "seamless pattern with flowers , ornamental elements and butterflies on a dark blue background ."
+  },
+  {
+    "index": "78",
+    "image": "/data/pdm102207/ConceptualCaptions/val/109_1584336966.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "embroidery colorful floral seamless pattern with poppies and lilies of the valley .",
+    "pred_output": "seamless pattern with a blue flowers ."
+  },
+  {
+    "index": "79",
+    "image": "/data/pdm102207/ConceptualCaptions/val/111_2488691651.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "video 3840x2160 - classic colored soccer ball rolling on the grass field and stops .",
+    "pred_output": "soccer ball rolls across the green lawn"
+  },
+  {
+    "index": "79",
+    "image": "/data/pdm102207/ConceptualCaptions/val/111_2488691651.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "video 3840x2160 - classic colored soccer ball rolling on the grass field and stops .",
+    "pred_output": "soccer ball on a green field with grass"
+  },
+  {
+    "index": "79",
+    "image": "/data/pdm102207/ConceptualCaptions/val/111_2488691651.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "video 3840x2160 - classic colored soccer ball rolling on the grass field and stops .",
+    "pred_output": "soccer ball on the green lawn"
+  },
+  {
+    "index": "80",
+    "image": "/data/pdm102207/ConceptualCaptions/val/115_2867311498.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in a leather jacket riding a motorcycle on the road",
+    "pred_output": "young man riding a motorcycle on the road"
+  },
+  {
+    "index": "80",
+    "image": "/data/pdm102207/ConceptualCaptions/val/115_2867311498.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in a leather jacket riding a motorcycle on the road",
+    "pred_output": "motorcycle rider on a black bike"
+  },
+  {
+    "index": "80",
+    "image": "/data/pdm102207/ConceptualCaptions/val/115_2867311498.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in a leather jacket riding a motorcycle on the road",
+    "pred_output": "motorcycle parked on the highway"
+  },
+  {
+    "index": "81",
+    "image": "/data/pdm102207/ConceptualCaptions/val/116_3886998180.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "view of the lodge from inside the reserve",
+    "pred_output": "this is the first view you have of the farm when you approach the property ."
+  },
+  {
+    "index": "81",
+    "image": "/data/pdm102207/ConceptualCaptions/val/116_3886998180.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "view of the lodge from inside the reserve",
+    "pred_output": "a city : view from the main road"
+  },
+  {
+    "index": "81",
+    "image": "/data/pdm102207/ConceptualCaptions/val/116_3886998180.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "view of the lodge from inside the reserve",
+    "pred_output": "a city : the road up to the house"
+  },
+  {
+    "index": "82",
+    "image": "/data/pdm102207/ConceptualCaptions/val/119_1388136030.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "automobile model was abandoned over the weekend",
+    "pred_output": "another car is damaged after the incident"
+  },
+  {
+    "index": "82",
+    "image": "/data/pdm102207/ConceptualCaptions/val/119_1388136030.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "automobile model was abandoned over the weekend",
+    "pred_output": "the right side of the car has a dent in the rear"
+  },
+  {
+    "index": "82",
+    "image": "/data/pdm102207/ConceptualCaptions/val/119_1388136030.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "automobile model was abandoned over the weekend",
+    "pred_output": "a damaged car in the parking lot of the school"
+  },
+  {
+    "index": "83",
+    "image": "/data/pdm102207/ConceptualCaptions/val/120_1895492876.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "canadian census division : the outside during the day .",
+    "pred_output": "view through the columns of the facade"
+  },
+  {
+    "index": "83",
+    "image": "/data/pdm102207/ConceptualCaptions/val/120_1895492876.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "canadian census division : the outside during the day .",
+    "pred_output": "view of the buildings and a city"
+  },
+  {
+    "index": "83",
+    "image": "/data/pdm102207/ConceptualCaptions/val/120_1895492876.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "canadian census division : the outside during the day .",
+    "pred_output": "the tower seen in the background"
+  },
+  {
+    "index": "84",
+    "image": "/data/pdm102207/ConceptualCaptions/val/121_2750431972.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a poster for the film",
+    "pred_output": "extra large movie poster image for musical comedy film"
+  },
+  {
+    "index": "84",
+    "image": "/data/pdm102207/ConceptualCaptions/val/121_2750431972.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a poster for the film",
+    "pred_output": "actor on the front cover of magazine ."
+  },
+  {
+    "index": "84",
+    "image": "/data/pdm102207/ConceptualCaptions/val/121_2750431972.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a poster for the film",
+    "pred_output": "extra large movie poster image for person"
+  },
+  {
+    "index": "85",
+    "image": "/data/pdm102207/ConceptualCaptions/val/122_3157096716.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the beginning of the trail",
+    "pred_output": "trail leading to the top of the trail ."
+  },
+  {
+    "index": "85",
+    "image": "/data/pdm102207/ConceptualCaptions/val/122_3157096716.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the beginning of the trail",
+    "pred_output": "people hiking through redwood trees along the trail"
+  },
+  {
+    "index": "85",
+    "image": "/data/pdm102207/ConceptualCaptions/val/122_3157096716.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the beginning of the trail",
+    "pred_output": "we walked for miles and miles in the forest"
+  },
+  {
+    "index": "86",
+    "image": "/data/pdm102207/ConceptualCaptions/val/123_1158962250.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "love this small house plan .",
+    "pred_output": "a drawing of the new house ."
+  },
+  {
+    "index": "86",
+    "image": "/data/pdm102207/ConceptualCaptions/val/123_1158962250.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "love this small house plan .",
+    "pred_output": "a drawing of a cottage ."
+  },
+  {
+    "index": "86",
+    "image": "/data/pdm102207/ConceptualCaptions/val/123_1158962250.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "love this small house plan .",
+    "pred_output": "sketch of a house with a garden ."
+  },
+  {
+    "index": "87",
+    "image": "/data/pdm102207/ConceptualCaptions/val/124_1365615120.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a wearable work of art .",
+    "pred_output": "these shoes are so pretty !"
+  },
+  {
+    "index": "87",
+    "image": "/data/pdm102207/ConceptualCaptions/val/124_1365615120.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a wearable work of art .",
+    "pred_output": "wedding dress and shoes by person ."
+  },
+  {
+    "index": "87",
+    "image": "/data/pdm102207/ConceptualCaptions/val/124_1365615120.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a wearable work of art .",
+    "pred_output": "shoes for the bride by person"
+  },
+  {
+    "index": "88",
+    "image": "/data/pdm102207/ConceptualCaptions/val/125_3385393372.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "this shockingly pink scarf is the must - have accessory to brighten up a cold and dull winter .",
+    "pred_output": "love the color of this scarf ."
+  },
+  {
+    "index": "88",
+    "image": "/data/pdm102207/ConceptualCaptions/val/125_3385393372.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "this shockingly pink scarf is the must - have accessory to brighten up a cold and dull winter .",
+    "pred_output": "handsome hat and gloves set ."
+  },
+  {
+    "index": "88",
+    "image": "/data/pdm102207/ConceptualCaptions/val/125_3385393372.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "this shockingly pink scarf is the must - have accessory to brighten up a cold and dull winter .",
+    "pred_output": "hobby - make a pair of mittens ."
+  },
+  {
+    "index": "89",
+    "image": "/data/pdm102207/ConceptualCaptions/val/126_2478204366.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a herd of cattle crowd the highway .",
+    "pred_output": "a herd of cows being led across a road on the outskirts"
+  },
+  {
+    "index": "89",
+    "image": "/data/pdm102207/ConceptualCaptions/val/126_2478204366.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a herd of cattle crowd the highway .",
+    "pred_output": "the cow being driven on the road"
+  },
+  {
+    "index": "89",
+    "image": "/data/pdm102207/ConceptualCaptions/val/126_2478204366.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a herd of cattle crowd the highway .",
+    "pred_output": "cows walk along the road"
+  },
+  {
+    "index": "90",
+    "image": "/data/pdm102207/ConceptualCaptions/val/127_3784193997.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "ship a city travels through fog down river on its way .",
+    "pred_output": "person was one of the first boats to arrive at the scene"
+  },
+  {
+    "index": "90",
+    "image": "/data/pdm102207/ConceptualCaptions/val/127_3784193997.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "ship a city travels through fog down river on its way .",
+    "pred_output": "armed force is an amphibious assault ship of the class ."
+  },
+  {
+    "index": "90",
+    "image": "/data/pdm102207/ConceptualCaptions/val/127_3784193997.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "ship a city travels through fog down river on its way .",
+    "pred_output": "sailors and crew members assigned to person perform a vertical replenishment of fuel and ammunition ."
+  },
+  {
+    "index": "91",
+    "image": "/data/pdm102207/ConceptualCaptions/val/128_2032955246.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a lot of dried fruits and nuts for sale in old fashioned traditional grocery store in city on peninsula",
+    "pred_output": "different kinds of sweets in a shop"
+  },
+  {
+    "index": "91",
+    "image": "/data/pdm102207/ConceptualCaptions/val/128_2032955246.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a lot of dried fruits and nuts for sale in old fashioned traditional grocery store in city on peninsula",
+    "pred_output": "sweets and chocolates for sale in a shop"
+  },
+  {
+    "index": "91",
+    "image": "/data/pdm102207/ConceptualCaptions/val/128_2032955246.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a lot of dried fruits and nuts for sale in old fashioned traditional grocery store in city on peninsula",
+    "pred_output": "chocolates and cakes at the market"
+  },
+  {
+    "index": "92",
+    "image": "/data/pdm102207/ConceptualCaptions/val/129_1827594515.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "gold frames on the wall with green wallpaper",
+    "pred_output": "golden frame on a dark background ."
+  },
+  {
+    "index": "92",
+    "image": "/data/pdm102207/ConceptualCaptions/val/129_1827594515.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "gold frames on the wall with green wallpaper",
+    "pred_output": "golden frame with a curtain on a dark purple background"
+  },
+  {
+    "index": "92",
+    "image": "/data/pdm102207/ConceptualCaptions/val/129_1827594515.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "gold frames on the wall with green wallpaper",
+    "pred_output": "the gold frame with a black background ."
+  },
+  {
+    "index": "93",
+    "image": "/data/pdm102207/ConceptualCaptions/val/130_2963966010.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of an old man .",
+    "pred_output": "portrait of an old woman ."
+  },
+  {
+    "index": "93",
+    "image": "/data/pdm102207/ConceptualCaptions/val/130_2963966010.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of an old man .",
+    "pred_output": "cartoon illustration of a wise old man ."
+  },
+  {
+    "index": "93",
+    "image": "/data/pdm102207/ConceptualCaptions/val/130_2963966010.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "illustration of an old man .",
+    "pred_output": "a woman with gray hair ."
+  },
+  {
+    "index": "94",
+    "image": "/data/pdm102207/ConceptualCaptions/val/131_2151954810.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a land armoured vehicle patrols the highway .",
+    "pred_output": "armed force ride on a tank on the road ."
+  },
+  {
+    "index": "94",
+    "image": "/data/pdm102207/ConceptualCaptions/val/131_2151954810.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a land armoured vehicle patrols the highway .",
+    "pred_output": "army soldiers walk with a vehicle during a military exercise on the southern coast ."
+  },
+  {
+    "index": "94",
+    "image": "/data/pdm102207/ConceptualCaptions/val/131_2151954810.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a land armoured vehicle patrols the highway .",
+    "pred_output": "soldiers patrol a village ."
+  },
+  {
+    "index": "95",
+    "image": "/data/pdm102207/ConceptualCaptions/val/133_35393382.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in the caves by visual artist .",
+    "pred_output": "a painting by person of men mining for gold"
+  },
+  {
+    "index": "95",
+    "image": "/data/pdm102207/ConceptualCaptions/val/133_35393382.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in the caves by visual artist .",
+    "pred_output": "a painting by painting artist , oil on canvas"
+  },
+  {
+    "index": "95",
+    "image": "/data/pdm102207/ConceptualCaptions/val/133_35393382.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "person in the caves by visual artist .",
+    "pred_output": "fresco painting on a wall in the temple of the gods"
+  },
+  {
+    "index": "96",
+    "image": "/data/pdm102207/ConceptualCaptions/val/134_1325358634.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a typical street scene after a heavy snowfall",
+    "pred_output": "bike parked on a snowy street"
+  },
+  {
+    "index": "96",
+    "image": "/data/pdm102207/ConceptualCaptions/val/134_1325358634.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a typical street scene after a heavy snowfall",
+    "pred_output": "bicycle parked on a snow covered street"
+  },
+  {
+    "index": "96",
+    "image": "/data/pdm102207/ConceptualCaptions/val/134_1325358634.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a typical street scene after a heavy snowfall",
+    "pred_output": "a parked motorcycle and a snow covered street"
+  },
+  {
+    "index": "97",
+    "image": "/data/pdm102207/ConceptualCaptions/val/136_3255284011.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a red kitchen from magazine ...",
+    "pred_output": "a look into the kitchen ."
+  },
+  {
+    "index": "97",
+    "image": "/data/pdm102207/ConceptualCaptions/val/136_3255284011.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a red kitchen from magazine ...",
+    "pred_output": "this galley kitchen boasts a large island for food prep and dining ."
+  },
+  {
+    "index": "97",
+    "image": "/data/pdm102207/ConceptualCaptions/val/136_3255284011.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "a red kitchen from magazine ...",
+    "pred_output": "another of my favorite rooms in the house ."
+  },
+  {
+    "index": "98",
+    "image": "/data/pdm102207/ConceptualCaptions/val/138_1475916652.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "picture of presidents with sign in the foreground .",
+    "pred_output": "this sign was found along a road"
+  },
+  {
+    "index": "98",
+    "image": "/data/pdm102207/ConceptualCaptions/val/138_1475916652.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "picture of presidents with sign in the foreground .",
+    "pred_output": "a sign warns drivers not to make a turn onto a steep hill ."
+  },
+  {
+    "index": "98",
+    "image": "/data/pdm102207/ConceptualCaptions/val/138_1475916652.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "picture of presidents with sign in the foreground .",
+    "pred_output": "a sign tells drivers that it is illegal to cross the highway without crossing it ."
+  },
+  {
+    "index": "99",
+    "image": "/data/pdm102207/ConceptualCaptions/val/139_1514615620.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "portrait of a priest and a nun",
+    "pred_output": "portrait of religious leader and person , wife of the first"
+  },
+  {
+    "index": "99",
+    "image": "/data/pdm102207/ConceptualCaptions/val/139_1514615620.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "portrait of a priest and a nun",
+    "pred_output": "religious leader with his wife"
+  },
+  {
+    "index": "99",
+    "image": "/data/pdm102207/ConceptualCaptions/val/139_1514615620.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "portrait of a priest and a nun",
+    "pred_output": "religious leadership title and his wife with a portrait of person"
+  },
+  {
+    "index": "100",
+    "image": "/data/pdm102207/ConceptualCaptions/val/140_874803745.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "on show : person wore a tight black sleeveless gown that featured a plunging neckline",
+    "pred_output": "tough competition : was joined by person at the event"
+  },
+  {
+    "index": "100",
+    "image": "/data/pdm102207/ConceptualCaptions/val/140_874803745.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "on show : person wore a tight black sleeveless gown that featured a plunging neckline",
+    "pred_output": "the reality star and person looked glamorous as they posed for photos at the event"
+  },
+  {
+    "index": "100",
+    "image": "/data/pdm102207/ConceptualCaptions/val/140_874803745.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "on show : person wore a tight black sleeveless gown that featured a plunging neckline",
+    "pred_output": "celebrity and fashion model at the premiere ."
+  },
+  {
+    "index": "101",
+    "image": "/data/pdm102207/ConceptualCaptions/val/141_3077224379.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the sun is king during person",
+    "pred_output": "you are a special creation by deity ."
+  },
+  {
+    "index": "101",
+    "image": "/data/pdm102207/ConceptualCaptions/val/141_3077224379.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the sun is king during person",
+    "pred_output": "greeting card featuring the photograph by person"
+  },
+  {
+    "index": "101",
+    "image": "/data/pdm102207/ConceptualCaptions/val/141_3077224379.jpg",
+    "instruction": "Generate a caption of this image:",
+    "gt_caption": "the sun is king during person",
+    "pred_output": "person : a friend who gives you sunshine when you 're going through cloudy weather ."
+  }
+]
